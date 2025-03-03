@@ -5,7 +5,7 @@
 
 A quirky twist on the classic Duck Hunt game, where you hunt feet instead of ducks! This project was developed as part of the Epitech B-MUL-100 module.
 
-![Game Screenshot](https://imgur.com/a/hunter-MD8ZhRB)
+![Game Screenshot](https://i.imgur.com/mrr36I3.png)
 
 ## 🎮 Game Overview
 
